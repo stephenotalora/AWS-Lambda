@@ -1,0 +1,22 @@
+---
+course: AWS Lambda
+instructor: Stephane Maarek
+
+intructorFullname:
+  firstName: Stephane
+  lastName: Maarek
+  awesomenesslevel: 9000
+
+sectionList:
+  - Introduction
+  - Deploying your first function
+  - Learning AWS Lambda in depth
+  - Real world examples
+
+lectures:
+  - lectureId: 1,
+    lectureName: intro
+    lectureLength: "5:03"
+  - lectureId: 2
+    lectureName: aws-lambda
+    lectureLength: "10:47"
