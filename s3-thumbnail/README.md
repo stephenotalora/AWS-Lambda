@@ -45,7 +45,7 @@ Sample object:
 }
 ```
 
-# Dependencies
+### Dependencies
 
 to install dependencies for lambda deploy 
 yarn --production=true
