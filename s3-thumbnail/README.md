@@ -44,3 +44,11 @@ Sample object:
     ]
 }
 ```
+
+# Dependencies
+
+to install dependencies for lambda deploy 
+yarn --production=true
+
+note that `sharp` must be installed under a linux environment for deployment in lambda
+see instructions available [here](http://sharp.pixelplumbing.com/en/stable/install/#aws-lambda)
